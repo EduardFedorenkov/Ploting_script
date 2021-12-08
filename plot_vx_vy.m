@@ -20,4 +20,3 @@ if(nargin == 5)
 end
 saveas(pic, strcat('f_',num2str(index - 1)), 'png');
 end
-
